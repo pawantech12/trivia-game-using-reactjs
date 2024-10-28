@@ -5,7 +5,7 @@ Welcome to the **Quiz Game** repository! This project is a dynamic, interactive 
 
 ## 🚀 Demo
 
-Check out the live demo here: [Demo Link](https://your-demo-link.com)
+Check out the live demo here: [Demo Link](https://trivia-game-using-reactjs.vercel.app/)
 
 ## 📌 Features
 
@@ -50,8 +50,8 @@ Check out the live demo here: [Demo Link](https://your-demo-link.com)
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/quiz-game.git
-   cd quiz-game
+   git clone https://github.com/pawantech12/trivia-game-using-reactjs.git
+   cd trivia-game-using-reactjs
    ```
 
 2. **Install dependencies**:
@@ -63,10 +63,10 @@ Check out the live demo here: [Demo Link](https://your-demo-link.com)
 3. **Run the app**:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-4. **Access the game** at `http://localhost:3000` in your browser.
+4. **Access the game** at `http://localhost:5173` in your browser.
 
 
 ## 📖 Usage
@@ -102,7 +102,7 @@ This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions or feedback!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: your-email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pawan-kumavat-11b105297/)
+- **Email**: your-pawankumavat042@gmail.com
 
 Enjoy playing the quiz game, and happy coding!
