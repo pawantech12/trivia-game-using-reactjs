@@ -19,10 +19,14 @@ const Game = ({ setHighScores }) => {
 
   useEffect(() => {
     const fetchQuestions = async () => {
-      const response = await axios.get(
-        `https://opentdb.com/api.php?amount=10&type=multiple&difficulty=${difficulty}`
-      );
-      setQuestions(response.data.results);
+      try {
+        const response = await axios.get(
+          `https://opentdb.com/api.php?amount=10&type=multiple&difficulty=${difficulty}`
+        );
+        setQuestions(response.data.results);
+      } catch (error) {
+        console.log("Error fetching questions:", error);
+      }
     };
     fetchQuestions();
   }, [difficulty]);
