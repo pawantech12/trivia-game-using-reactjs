@@ -102,7 +102,7 @@ This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions or feedback!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pawan-kumavat-11b105297/)
-- **Email**: your-pawankumavat042@gmail.com
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/pawan-kumavat-11b105297/)
+- **Email**: pawankumavat042@gmail.com
 
 Enjoy playing the quiz game, and happy coding!
